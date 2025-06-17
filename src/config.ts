@@ -50,12 +50,12 @@ export const navBarConfig: NavBarConfig = {
     
     {
       name: 'GitHub',
-      url: 'https://github.com/hanshuqiang',     // Internal links should not include the base path, as it is automatically added
+      url: 'https://github.com/kibble5788/EnglishPlan',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
     {
       name: 'PublishArticle',
-      url: 'https://github.com/hanshuqiang/EnglishPlan/new/main/src/content/posts',     // Internal links should not include the base path, as it is automatically added
+      url: 'https://github.com/kibble5788/EnglishPlan/new/main/src/content/posts',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
   ],

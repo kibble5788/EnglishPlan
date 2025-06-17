@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
     },
     {
       name: 'PublishArticle',
-      url: 'https://github.com/kibble5788/EnglishPlan/new/main/src/content/posts',     // Internal links should not include the base path, as it is automatically added
+      url: 'https://github.com/kibble5788/EnglishPlan/edit/main/src/content/posts/draft.md',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
   ],
